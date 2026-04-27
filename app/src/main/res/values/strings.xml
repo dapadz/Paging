@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paging Demo</string>
+    <string name="demo_action_start">Start</string>
+    <string name="demo_action_refresh">Refresh</string>
+    <string name="demo_action_retry">Retry</string>
+    <string name="demo_action_clear">Clear</string>
+    <string name="demo_action_toggle_first">Toggle First Item</string>
+    <string name="demo_loading_title">Loading demo data</string>
+    <string name="demo_loading_message">The fake repository adds a short delay so loading states stay visible.</string>
+</resources>
